@@ -1,12 +1,12 @@
 # markdown_0719
 markdown_0719
-```JAVA
+
 public class Hello {
   public static void main(String []args){
 
   }
 }
-```
+
 
 
 ### 3. 인용상자
