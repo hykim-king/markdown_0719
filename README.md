@@ -1,6 +1,6 @@
 ### 12. 이미지 링크
 
-![](https://github.com/hykim-king/markdown_0719/blob/main/logo.png "수업자료 LINK")
+![로고](https://github.com/hykim-king/markdown_0719/blob/main/logo.png "수업자료 LINK")
 
 
 ### 11. 수학 수식: LaTex구문
